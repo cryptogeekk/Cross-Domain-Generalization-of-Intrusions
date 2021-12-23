@@ -18,4 +18,6 @@ We trained our global model across six different datasets that varies in their n
 
 # Result
 Our result suggest that the global model was able to generalize across the intrusion classes present across all the datasets.
+
+
 ![alt text](https://github.com/cryptogeekk/Cross-Domain-Generalization-of-Intrusions/blob/main/FL_Cross_domain_250.jpeg)
